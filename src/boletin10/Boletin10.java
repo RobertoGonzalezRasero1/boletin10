@@ -17,5 +17,6 @@ public class Boletin10 {
         aleatorio.adivinar();
         // forkeando
     }
+    // brian es un poco gay y el master de la programacion
     
 }
