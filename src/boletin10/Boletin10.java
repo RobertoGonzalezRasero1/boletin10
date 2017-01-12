@@ -16,6 +16,6 @@ public class Boletin10 {
         Juego aleatorio=new Juego();
         aleatorio.adivinar();
     }
-    // brian es un poco gay y el master de la programacion
+    // brian es un poco gay y el loser de la programacion y un poco warro
     
 }
