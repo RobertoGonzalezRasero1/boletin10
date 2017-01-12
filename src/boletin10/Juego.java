@@ -31,9 +31,11 @@ public class Juego {
                break;
            }
             
-           
-           conta++;
+            conta++;
            
         }
+                if (conta==6){
+                    System.out.println("Pierdes");
+                }
     }
 }
