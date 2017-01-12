@@ -17,6 +17,6 @@ public class Boletin10 {
         aleatorio.adivinar();
         // forkeando
     }
-    // rober es un poco gay y el loser de la programacion
+    // 
     
 }
