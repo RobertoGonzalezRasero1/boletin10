@@ -38,4 +38,6 @@ public class Juego {
                     System.out.println("Pierdes");
                 }
     }
+    
+    //borrado el main
 }
