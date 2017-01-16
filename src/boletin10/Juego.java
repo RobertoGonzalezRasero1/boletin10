@@ -39,5 +39,5 @@ public class Juego {
                 }
     }
     
-    //borrado el main
+    //recuperado
 }
